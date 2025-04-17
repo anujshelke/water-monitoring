@@ -1,3 +1,4 @@
+![Uploading image.png…]()
 # IoT-Enabled Water Quality Monitoring Devices
 
 This project focuses on building IoT-enabled devices to monitor water quality in real-time. It aims to provide a cost-effective and scalable solution for ensuring safe and sustainable water resources.
